@@ -58,7 +58,7 @@ Returns a [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Refe
 ]
 ```
 
-### `journeys(origin, destination, date = Date.now(), opt = {})`
+### `journeys(origin, destination, date = new Date(), opt = {})`
 
 Get connetions from A to B.
 
