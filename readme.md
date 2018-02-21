@@ -1,6 +1,6 @@
 # pkp-ic
 
-JavaScript client for the [PKP intercity](https://www.intercity-pl/) API. Complies with the [friendly public transport format](https://github.com/public-transport/friendly-public-transport-format). Inofficial, using endpoints by *PKP IC*. Ask them for permission before using this module in production. *Still in progress.*
+JavaScript client for the [PKP intercity](https://www.intercity.pl/) API. Complies with the [friendly public transport format](https://github.com/public-transport/friendly-public-transport-format). Inofficial, using endpoints by *PKP IC*. Ask them for permission before using this module in production. *Still in progress.*
 
 [![npm version](https://img.shields.io/npm/v/pkp-ic.svg)](https://www.npmjs.com/package/pkp-ic)
 [![Build Status](https://travis-ci.org/juliuste/pkp-ic.svg?branch=master)](https://travis-ci.org/juliuste/pkp-ic)
