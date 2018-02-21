@@ -1,0 +1,45 @@
+{
+	"name": "pkp-ic",
+	"description": "PKP Intercity API client",
+	"version": "0.0.0",
+	"keywords": [
+		"train",
+		"railway",
+		"api",
+		"client",
+		"pkp",
+		"intercity",
+		"polish",
+		"poland",
+		"fptf"
+	],
+	"author": "Julius Tens <mail@juliustens.eu>",
+	"homepage": "https://github.com/juliuste/pkp-ic",
+	"repository": "juliuste/pkp-ic",
+	"bugs": "https://github.com/juliuste/pkp-ic/issues",
+	"main": "./index.js",
+	"dependencies": {
+		"got": "^8.2.0",
+		"lodash.isboolean": "^3.0.3",
+		"lodash.isdate": "^4.0.1",
+		"lodash.isinteger": "^4.0.4",
+		"lodash.isobject": "^3.0.2",
+		"lodash.isstring": "^4.0.1",
+		"lodash.merge": "^4.6.1",
+		"md5": "^2.2.1",
+		"moment-timezone": "^0.5.14",
+		"sort-keys": "^2.0.0"
+	},
+	"devDependencies": {
+		"lodash.isnumber": "^3.0.3",
+		"tape": "^4.9.0"
+	},
+	"scripts": {
+		"test": "node test.js",
+		"prepare": "npm test"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"license": "ISC"
+}
