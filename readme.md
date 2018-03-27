@@ -141,6 +141,10 @@ Returns a [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Refe
 ]
 ```
 
+## Similar projects
+
+- [koleo](https://github.com/juliuste/koleo/) - Client for the polish Koleo (PKP) train API (includes price information)
+
 ## Contributing
 
 If you found a bug, want to propose a feature or feel the urge to complain about your life, feel free to visit [the issues page](https://github.com/juliuste/pkp-ic/issues).
