@@ -1,7 +1,7 @@
 {
 	"name": "pkp-ic",
 	"description": "PKP Intercity API client",
-	"version": "0.0.3",
+	"version": "1.0.0",
 	"keywords": [
 		"train",
 		"railway",
