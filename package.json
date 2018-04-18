@@ -27,7 +27,7 @@
 		"lodash.isstring": "^4.0.1",
 		"lodash.merge": "^4.6.1",
 		"md5": "^2.2.1",
-		"moment-timezone": "^0.5.14",
+		"moment-timezone": "^0.5.16",
 		"sort-keys": "^2.0.0"
 	},
 	"devDependencies": {
