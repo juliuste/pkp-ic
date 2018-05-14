@@ -2,6 +2,8 @@
 
 JavaScript client for the [PKP intercity](https://www.intercity.pl/) API. Complies with the [friendly public transport format](https://github.com/public-transport/friendly-public-transport-format). Inofficial, using endpoints by *PKP IC*. Ask them for permission before using this module in production. *Still in progress.*
 
+**You should probably refer to the newer [bilkom](https://github.com/juliuste/bilkom) package instead.**
+
 [![npm version](https://img.shields.io/npm/v/pkp-ic.svg)](https://www.npmjs.com/package/pkp-ic)
 [![Build Status](https://travis-ci.org/juliuste/pkp-ic.svg?branch=master)](https://travis-ci.org/juliuste/pkp-ic)
 [![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/pkp-ic.svg)](https://greenkeeper.io/)
@@ -143,6 +145,7 @@ Returns a [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Refe
 
 ## Similar projects
 
+- [bilkom](https://github.com/juliuste/bilkom) - Client for the new polish Bilkom (PKP) API (includes price information)
 - [koleo](https://github.com/juliuste/koleo/) - Client for the polish Koleo (PKP) train API (includes price information)
 
 ## Contributing
