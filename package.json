@@ -32,7 +32,7 @@
 	},
 	"devDependencies": {
 		"lodash.isnumber": "^3.0.3",
-		"tape": "^4.9.0"
+		"tape": "^4.13.0"
 	},
 	"scripts": {
 		"test": "node test.js",
