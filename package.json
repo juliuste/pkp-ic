@@ -19,7 +19,7 @@
 	"bugs": "https://github.com/juliuste/pkp-ic/issues",
 	"main": "./index.js",
 	"dependencies": {
-		"got": "^9.0.0",
+		"got": "^11.2.0",
 		"lodash.isboolean": "^3.0.3",
 		"lodash.isdate": "^4.0.1",
 		"lodash.isinteger": "^4.0.4",
